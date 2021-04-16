@@ -1,0 +1,2 @@
+;;; Generated package description from pcmpl-args.el  -*- no-byte-compile: t -*-
+(define-package "pcmpl-args" "20190223.1613" "Enhanced shell command completion" 'nil :commit "0b8a05fc6e370fa9c466250659619f8d6b53d446" :authors '(("Jonathan Waltman" . "jonathan.waltman@gmail.com")) :maintainer '("Jonathan Waltman" . "jonathan.waltman@gmail.com") :keywords '("abbrev" "completion" "convenience" "processes" "terminals" "unix") :url "https://github.com/JonWaltman/pcmpl-args.el")

@@ -1,0 +1,2 @@
+;;; Generated package description from ob-applescript.el  -*- no-byte-compile: t -*-
+(define-package "ob-applescript" "20190709.1607" "Org-babel functions for AppleScript" 'nil :commit "2b07b77b75bd02f2102f62e6d52ffdd0f921439a" :authors '(("Stig Brautaset")) :maintainer '("Stig Brautaset") :keywords '("literate programming" "reproducible research" "mac") :url "http://github.com/stig/ob-applescript.el")

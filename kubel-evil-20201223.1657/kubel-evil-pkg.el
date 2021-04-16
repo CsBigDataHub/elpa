@@ -1,0 +1,2 @@
+;;; Generated package description from kubel-evil.el  -*- no-byte-compile: t -*-
+(define-package "kubel-evil" "20201223.1657" "extension for kubel to provide evil keybindings" '((kubel "1.0") (evil "1.0") (emacs "25.3")) :commit "91d1c8e97e4168fc49548c3449b4a60568c96790" :authors '(("Marcel Patzwahl")) :maintainer '("Marcel Patzwahl") :keywords '("kubernetes" "k8s" "tools" "processes" "evil" "keybindings") :url "https://github.com/abrochard/kubel")
